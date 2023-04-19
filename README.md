@@ -9,7 +9,7 @@ In order to complete this data analysis, pandas, numpy, matplotlib.pyplot, seabo
 The file used for data in this assignment is provided by Our World in Data.(https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv). 
 ### A Data Processing section that briefly describes the major steps taken to clean the data. This section should refer to the Colab notebook that does the data processing and to the resulting clean csv file.
 Several strategies and forms of code were used to clean data. For example, in 
-### An Authors section that specifies the author (you). You might include links to your website or LinkedIn, if you like.
-The Author of this lab project is myself, Nick Schmidt-Bailey. I am a sophomore civil engineering student at Seattle University from the Chicago Area. Here's my LinkedIn: (https://www.linkedin.com/in/nschmidt-bailey/)
-### A License section that specifies the license under which others may use the materials in your repository.
+### Author:
+The Author of this lab project is myself, Nick Schmidt-Bailey. I am a sophomore civil engineering student at Seattle University from the Chicago area. Here's my LinkedIn: (https://www.linkedin.com/in/nschmidt-bailey/)
+### Licensing:
 Anyone can use this project so long as they give credit to nschmidt-bailey. 
