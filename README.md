@@ -1,5 +1,5 @@
 # Global CO2 Emissions, In Depth from 1971-2020 
-## The file used for data in this assignment is provided by Our World in Data.
+### The file used for data in this assignment is provided by Our World in Data.
 (https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv). Analysis will be done on emission metrics for several countries, the major focus will be on the emissions of the top ten emitters during a time period of 1971-2020.
 ### Description, methods, and conclusions:
 This lab focuses on the CO2 emissions of international countries and the patterns they produce during certain time periods. Problems during this lab included removing non countries from the data, such as Asia or the world, and determining the proper methods to use for certain data outputs. Methods include the use of histograms, boxlopts, timeplots, and many analysis techniques to narrow the scope of the data. After going through the different data interpretations, the main conclusions include that emission levels have greatly increased in the last 50 years. Countries like China, The United States, and India lead the globe in emissions. As more data is added yearly for countries across the globe, it also becomes noticable that average international emission levels may continue to increase.
